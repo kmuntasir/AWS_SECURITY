@@ -7,7 +7,8 @@ Task #4 Enforcing IAM User Password Policies in Your AWS Account.
 Task #5 Testing IAM Policy using IAM policy simulator.
 
 Prerequisite:
-Use AWS CLI to complete all the steps for each task.
+Use AWS CLI, Bash and Python programming to complete all the steps for each task. 
+Remember automation is the key to boost your productivity.   
 
 
 
