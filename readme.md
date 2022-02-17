@@ -2,9 +2,9 @@ This is a repository to post the following  AWS project tasks:
 
 Task #1 How to create and assume an IAM role for developer Access. 
 
-Task #2 How to enable CloudTrail logging for your AWS Account. 
+Task #2 How to enable CloudTrail logging for your  AWS Account, write a python or bash script. 
 
-Task #3 How to create an Alert when a Root login occurs. 
+Task #3 How to create an Alert when a Root login occurs using Lambda function. 
 
 Task #4 How to create a Least Privilege IAM Policy Based on Access Patterns. 
 
